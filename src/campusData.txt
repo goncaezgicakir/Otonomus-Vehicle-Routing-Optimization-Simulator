@@ -1,0 +1,23 @@
+4
+1 stop_101 1 stop_28 15
+2 stop_101 1 stop_28 15
+3 stop_28 2 stop_101 15 
+4 stop_28 2 stop_101 15
+5 stop_28 2 stop_101 15
+6 stop_28 2 stop_101 15
+7 stop_0 3 stop_101 15
+8 stop_0 3 stop_101 15
+9 stop_0 3 stop_101 15
+10 stop_2 3 stop_101 15
+11 stop_2 3 stop_101 15
+12 stop_2 3 stop_101 15
+13 stop_2 3 stop_101 15
+14 stop_2 3 stop_101 15
+15 stop_4 3 stop_101 15
+16 stop_4 3 stop_101 15
+17 stop_4 3 stop_101 15
+18 stop_2 3 stop_101 15
+19 stop_2 3 stop_101 15
+20 stop_2 3 stop_101 15
+21 stop_101 1 stop_28 15
+
